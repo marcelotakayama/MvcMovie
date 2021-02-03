@@ -35,3 +35,4 @@ C:\Users\mntakayama\Documents\Repositórios\MvcMovie\MvcMovie\obj\Debug\netcorea
 C:\Users\mntakayama\Documents\Repositórios\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.pdb
 C:\Users\mntakayama\Documents\Repositórios\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.genruntimeconfig.cache
 C:\Users\mntakayama\Documents\Repositórios\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CopyComplete
+C:\Users\mntakayama\Documents\Repositórios\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Index.cshtml.g.cs
